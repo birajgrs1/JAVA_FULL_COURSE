@@ -9,6 +9,7 @@ out/
 .factorypath
 .project
 .settings
+.ideas
 .springBeans
 .sts4-cache
 bin/
@@ -27,3 +28,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
