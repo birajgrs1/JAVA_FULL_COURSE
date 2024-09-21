@@ -1,0 +1,4 @@
+Create three interfaces: Readable, Writable, and Storable. Each interface should have one method
+Readable with read(), Writable with write(), and Storable with store(). Then
+create a class file that implements all three interfaces. Provide implementations
+for all three methods in the File class. In the main method , create an object of the File class and call all three methods.

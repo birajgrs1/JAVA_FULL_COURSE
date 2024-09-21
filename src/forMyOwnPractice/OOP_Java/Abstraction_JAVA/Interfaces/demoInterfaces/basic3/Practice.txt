@@ -1,0 +1,3 @@
+Create an interface playable with a method play(). Then create two classes, Guitar and piano, that implement the playable
+interface. Each class should provide its own implementation of the play() method. Finally
+,create a main method to instantiate objects of guitar and piano and call their play() methods.

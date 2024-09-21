@@ -1,0 +1,5 @@
+Create two interfaces, Printable and Showable, each with a method
+display(). Then, create a class document that implements both Printable
+and Showable. Override the display() method in the document class to avoid
+the diamond pattern. Finally, demonestrate the use of the
+display() method by creating an object of the Document class.
