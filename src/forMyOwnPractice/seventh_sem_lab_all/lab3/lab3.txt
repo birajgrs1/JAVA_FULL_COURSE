@@ -1,0 +1,5 @@
+ Write a program in java that defines the interface and classes:
+1. interface shape with PI3.14 (constant) double getArea(); (abstract method)
+2. class circle implements shape interface and has radius
+3. class rectangle implements shape interface and has length and breadth Now, create a driver class Interface Test that creates objects
+ of circle and rectangle computes their area

@@ -1,0 +1,2 @@
+Write a GUI program in java to calculate simple interest, program takes input (Principle, Rate, Years) from input textfields,
+and has a button named FIND SI, the result is shown in a text field

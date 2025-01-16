@@ -1,0 +1,2 @@
+ Write a JDBC program in java to connect to a database named 'practical', and create a simple table for 'employee',
+ add an employee detail and retrieve it from database.

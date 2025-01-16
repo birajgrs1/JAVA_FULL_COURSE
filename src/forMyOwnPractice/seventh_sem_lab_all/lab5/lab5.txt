@@ -1,0 +1,2 @@
+ Write a Swing program to create a simple form to input employee details such as name, age, gender, and salary,
+ and saves them to a file when the "Save" button is clicked.

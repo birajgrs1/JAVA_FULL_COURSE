@@ -1,0 +1,5 @@
+ Inheritance example in Java
+Write a program in java that implements the following classes:
+1. Room -length -breadth -int getArea();
+2. Bedroom (inherits Room) -height -int getVolume();
+3. Create a driver class called RoomTest that creates two objects of Bedroom and computes their area and volume.
