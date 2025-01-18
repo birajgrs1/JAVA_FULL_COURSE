@@ -1,7 +1,0 @@
- Create a basic servlet that can be deployed in a web application to handle incoming HTTP requests and
-  generate dynamic HTML responses.
-
-
-
-
-  --->using 'tomcat' server manually with the help of xampp

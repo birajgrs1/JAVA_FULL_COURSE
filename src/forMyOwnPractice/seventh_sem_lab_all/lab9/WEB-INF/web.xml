@@ -1,0 +1,14 @@
+<web-app> 
+<display-name>NameDisplayExample</display-name> 
+<welcome-file-list> 
+<welcome-file>index.html</welcome-file> 
+</welcome-file-list> 
+<servlet> 
+<servlet-name>NameServlet</servlet-name> 
+<servlet-class>NameServlet</servlet-class> 
+</servlet> 
+<servlet-mapping> 
+<servlet-name>NameServlet</servlet-name> 
+<url-pattern>/NameServlet</url-pattern> 
+</servlet-mapping> 
+</web-app> 
